@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/thomasq/Public/Programming/C++/xlstm-hip/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
